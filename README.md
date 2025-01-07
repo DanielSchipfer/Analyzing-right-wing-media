@@ -11,7 +11,7 @@ players.
 
 • Do specific Authors specialize on a single topic?
 
-• Do all authors publish the same number of articles?
+• Does article sentiment differ between articles containing keywords relating to immigrants from articles not containing the keywords?
 
 • How does the frequency of published articles vary over a week?
 
